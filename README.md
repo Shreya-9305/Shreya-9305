@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [[update]]([update])
 
-- ⚡ Fun fact **I like to draw and I have a separate art account on twitter.**
+- ⚡ Fun fact **I have a secret art account on twitter.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
