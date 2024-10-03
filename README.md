@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-seven-flame-87.vercel.app/](https://portfolio-seven-flame-87.vercel.app/)
+- 👨‍💻 Sample portfolio at [https://portfolio-seven-flame-87.vercel.app/](https://portfolio-seven-flame-87.vercel.app/)
 
 - 💬 Ask me about **React , GSAP and Spline**
 
